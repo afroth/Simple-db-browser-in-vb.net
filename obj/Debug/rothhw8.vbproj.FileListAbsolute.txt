@@ -1,0 +1,13 @@
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\bin\Debug\rothhw8.exe.config
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\bin\Debug\rothhw8.exe
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\bin\Debug\rothhw8.pdb
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\bin\Debug\rothhw8.xml
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.vbproj.AssemblyReference.cache
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.Form1.resources
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.Resources.resources
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.vbproj.GenerateResource.cache
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.vbproj.CoreCompileInputs.cache
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.exe
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.xml
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.pdb
+C:\Users\nadam\OneDrive\Documents\school\cs311\assignment8\rothhw8\obj\Debug\rothhw8.vbproj.SuggestedBindingRedirects.cache
